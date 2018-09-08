@@ -1,0 +1,13 @@
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\bin\Debug\Screen Capture Recorder.exe.config
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\bin\Debug\Screen Capture Recorder.exe
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\bin\Debug\Screen Capture Recorder.pdb
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen_Capture_Recorder.Form1.resources
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen_Capture_Recorder.Properties.Resources.resources
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen Capture Recorder.csproj.GenerateResource.cache
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen Capture Recorder.csproj.CoreCompileInputs.cache
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen Capture Recorder.exe
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen Capture Recorder.pdb
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\Release\Screen Capture Recorder.exe.config
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\Release\Screen Capture Recorder.exe
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\Release\Screen Capture Recorder.pdb
+D:\Live Stream Tool Project\C#\Screen Capture Recorder\Screen Capture Recorder\obj\Debug\Screen Capture Recorder.csprojResolveAssemblyReference.cache
